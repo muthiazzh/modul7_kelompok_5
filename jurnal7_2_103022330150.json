@@ -1,0 +1,39 @@
+{
+    "members": [
+        {
+            "firstName": "Muthi",
+            "lastName": "Azzahra",
+            "gender": "female",
+            "age": 28,
+            "nim": "7349282382"
+        },
+        {
+            "firstName": "Ilham",
+            "lastName": "Smooth",
+            "gender": "male",
+            "age": 32,
+            "nim": "5678568567"
+        },
+        {
+            "firstName": "Endihan",
+            "lastName": "AlFatah",
+            "gender": "male",
+            "age": 24,
+            "nim": "456754675"
+        },
+        {
+            "firstName": "Syahdan",
+            "lastName": "manzis",
+            "gender": "male",
+            "age": 24,
+            "nim": "456704675"
+        },
+        {
+            "firstName": "Triana",
+            "lastName": "Julianingsih",
+            "gender": "female",
+            "age": 24,
+            "nim": "456954675"
+        }
+    ]
+}
