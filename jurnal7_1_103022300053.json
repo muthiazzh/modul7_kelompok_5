@@ -1,0 +1,15 @@
+{
+   "firstName": "Triana",
+   "lastName": "Julianingsih",
+   "gender": "female",
+   "age": 20,
+   "address": {
+       "streetAddress": "PBB",
+       "city": "Bandung",
+       "state": "West Java"
+   },
+   "courses": [
+       { "code": "CCK2KAB4", "name": "Konstruksi Perangkat Lunak" },
+       { "code": "CCK3IAB2", "name": "Tata Tulis Ilmiah" }
+   ]
+}
