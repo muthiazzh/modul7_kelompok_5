@@ -9,5 +9,7 @@ public class Program
 
         TeamMembers_103022330150 teamMembers = new TeamMembers_103022330150();
         teamMembers.ReadJSON();
+
+        GlossaryItem_103022330150.ReadJSON();
     }
 }
